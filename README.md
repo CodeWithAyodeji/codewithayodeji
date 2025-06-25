@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Ayodeji Akintubi
 
-<!--
-**CodeWithAyodeji/codewithayodeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught fullstack developer, tech educator, and startup builder.
 
-Here are some ideas to get you started:
+🎯 Currently building [Konfam_Am](#), a product verification app to fight fake consumables across Africa.  
+🎥 Sharing my dev journey on YouTube — [Code With Ayodeji](https://youtube.com/@codewithayodeji).  
+💡 Exploring React, Node.js, Supabase, Firebase, GitHub, AI tools & more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+
+## 📌 Projects
+- 🛠️ **Zero to Fullstack** — my journey from beginner to fullstack dev  
+- 🔒 **React + Supabase Auth App** — login, register, JWT auth  
+- 🌍 **Konfam_Am** — blockchain-powered verification system
+
+---
+
+> 💬 Let’s connect and build something meaningful!
